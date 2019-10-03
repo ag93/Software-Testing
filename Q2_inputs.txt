@@ -1,0 +1,9 @@
+Number of Drinks	discount type	drink type	size	payment type
+1	None	Coffee	Small	Cash
+4	Student	Tea	Regular	CreditCard
+7	Teacher	Soda	Large	DebitCard
+12	Military	Slushy	Grande	
+17	Frequent	Cappuccino		
+20	Coupon			
+31	Employee			
+50				
